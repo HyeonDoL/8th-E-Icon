@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="chick" size="65.000000 65.000000" />
-    <ImageTarget name="king" size="62.000000 90.024002" />
-    <ImageTarget name="204709398g" size="180.000000 247.199997" />
-    <ImageTarget name="Club_5" size="62.000000 90.024002" />
-    <ImageTarget name="Club_3" size="62.000000 90.024002" />
-    <ImageTarget name="Club_2" size="62.000000 90.024002" />
+    <ImageTarget name="Uranus" size="50.799999 50.799999" />
+    <ImageTarget name="Neptune" size="50.799999 50.799999" />
+    <ImageTarget name="Jupiter" size="50.799999 50.799999" />
+    <ImageTarget name="Saturn" size="50.799999 50.799999" />
+    <ImageTarget name="Mars" size="50.799999 50.799999" />
+    <ImageTarget name="Mercury" size="50.799999 50.799999" />
+    <ImageTarget name="Venus" size="50.799999 50.799999" />
+    <ImageTarget name="Earth" size="50.799999 50.799999" />
+    <ImageTarget name="SolarSystem" size="50.799999 50.799999" />
+    <ImageTarget name="Test_Tairenol" size="100.000000 71.521454" />
+    <ImageTarget name="Test_Gebiskon" size="140.000000 52.500000" />
   </Tracking>
 </QCARConfig>

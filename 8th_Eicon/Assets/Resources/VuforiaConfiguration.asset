@@ -15,8 +15,8 @@ MonoBehaviour:
     vuforiaLicenseKey: AfGz8AP/////AAABGaI/Bet9vE0Hj6MjNZ6FLFIDQuQ464T/GcRm81aUp6k4DMslWUs9CQKX8ef6iQ2+Cs3jkKJJaqjioB33H76ujQAHX6ciFVmBxzqsKiMiI8ZQyf80e0VwZtHbeCUsQzWZRRTU9HYiOPVoGyWFX+m2UuQzortG9/4XwV627V++bcVMxX4yPMJuCqIUTdxccnHsWsLp72EYN2ExVa2Wm6FWC9WpfvTNwVi2AcStaWGNzH4AqUvzKDWNI8GGXqr8dvD1rCuLFznDb5DnPjuQ+byBpjOenv9SvQGGmMZYa2fBLXyuuykZE9ZFLwGPdT1K48y0AkgvUka1g0rfX1t1AG+LO1ovQwPBa7iJhDdAE2UpXsTC
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    maxSimultaneousImageTargets: 10
+    maxSimultaneousObjectTargets: 10
     useDelayedLoadingObjectTargets: 0
     cameraDirection: 0
     mirrorVideoBackground: 0
